@@ -1,0 +1,6 @@
+pylidc
+setuptools
+configparser
+ConfigParser
+scikit-learn
+opencv-python
